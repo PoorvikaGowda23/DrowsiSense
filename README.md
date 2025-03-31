@@ -94,9 +94,9 @@ To retrain the CNN model:
    python cnn.py
    ```
 3. The script will:
-  - Preprocess images
-  - Train the CNN model
-  - Save updated weights to drowsiness_cnn_model.h5
+    - Preprocess images
+    - Train the CNN model
+    - Save updated weights to drowsiness_cnn_model.h5
 
 ## 📝 Notes
 - For best results, ensure proper lighting on the driver's face
