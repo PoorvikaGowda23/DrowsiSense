@@ -42,7 +42,7 @@ A real-time drowsiness detection system that uses **computer vision** and **deep
 
 1. **Clone the repository**
     ```bash
-    git clone https://github.com/PoorvikaGowda23/DrowsiSense
+    git clone https://github.com/PoorvikaGowda23/DrowsiSense.git
     cd DrowsiSense
     ```
 
